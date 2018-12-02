@@ -1,0 +1,7 @@
+{
+    "employee": [
+      { "id": 1, "nama": "jayanudin", "divisi": "technichal", "no_handphone": "08987888897", "status": 1, "alamat": "jalan jalan jalan" },
+      { "id": 2, "nama": "jayanudin", "divisi": "technichal", "no_handphone": "08987888897", "status": 1, "alamat": "jalan jalan jalan" },
+      { "id": 3, "nama": "jayanudin", "divisi": "technichal", "no_handphone": "08987888897", "status": 1, "alamat": "jalan jalan jalan" }
+    ]
+}
